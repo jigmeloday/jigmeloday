@@ -1,20 +1,58 @@
+# Hi there 👋 I'm Jigme Lodey
 
+<p align="left">
+  <a href="https://portfolio-next-jigmelodays-projects.vercel.app/">
+    🌐 Portfolio
+  </a>
+</p>
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-- 👨🏻‍💻 I'm [Jigme Lodey](https://portfolio-next-jigmelodays-projects.vercel.app/)
-- 💻 I'm a MEAN MERN stack developer.
+---
 
-- 🔗 Passionate about learning and coding.
-- 🏢 Currently Full stack developer.
-- REACT | REACT NATIVE | ANGULAR | MEAN | MERN | MUI | TAILWIND | VUE | RUBY ON RAILS | NEXT JS | NATIVE BASE
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12557899)](https://stackoverflow.com/users/3840208/dhanushka)
-##
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent)
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jigmeloday&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
-##
-[![trophy](https://github-profile-trophy.vercel.app/?username=jigmeloday&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-## 
+## 👨🏻‍💻 About Me
+
+- 💻 Full Stack Developer (MERN / MEAN)
+- 🚀 Passionate about learning, building, and shipping
+- 🏢 Currently working as a Full Stack Developer
+- 🎯 Focused on scalable web & mobile applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Angular, Vue, Next.js, Tailwind CSS, MUI  
+**Backend:** Node.js, Express, Ruby on Rails  
+**Mobile:** React Native, NativeBase  
+**Database:** MongoDB, MySQL, Supabase, Firebase, Neon, PG  
+**Other:** REST APIs, Git, Docker basics, Graphql
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jigmeloday&theme=windows-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jigmeloday&theme=onedark" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 🌐 Portfolio: https://portfolio-next-jigmelodays-projects.vercel.app/
+- 💬 Open to collaboration and freelance projects
+- 🔗 Always learning and building
+
+---
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />
