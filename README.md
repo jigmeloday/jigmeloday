@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://portfolio-next-jigmelodays-projects.vercel.app/">
-    🌐 Portfolio
+    --> 🌐 Portfolio <--
   </a>
 </p>
 
