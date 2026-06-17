@@ -14,7 +14,6 @@
 - 🚀 Passionate about learning, building, and shipping
 - 🏢 Currently working as a Full Stack Developer
 - 🎯 Focused on scalable web & mobile applications
-
 ---
 
 ## 🛠️ Tech Stack
