@@ -6,7 +6,6 @@
   </a>
 </p>
 ---
-
 ## 👨🏻‍💻 About Me
 
 - 💻 Full Stack Developer (MERN / MEAN)
