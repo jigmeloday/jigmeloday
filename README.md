@@ -6,7 +6,6 @@
   </a>
 </p>
 ---
-      
 ## 👨🏻‍💻 About Me
 
 - 💻 Full Stack Developer (MERN / MEAN)
@@ -24,7 +23,6 @@
 **Other:** REST APIs, Git, Docker basics, Graphql
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -54,3 +52,5 @@
 ---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />
+
+
